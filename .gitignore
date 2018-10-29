@@ -21,3 +21,8 @@ setup.log
 
 # Merlin configuring file for Vim and Emacs
 .merlin
+
+# cifar data
+data/
+
+.DS_Store
